@@ -1,6 +1,8 @@
 # Xeno A10-D3
-An AI accelerator I made because I didn't want to study for my exams
-
+An AI accelerator I made because I didn't want to study for my exams<br>
+<br>
+Written in SystemVerilog<br>
+<br>
 It has a 1x384 vector architecture (INT8)<br>
 It uses a ping pong kinda buffer with oh shiddings i forgot how much BRAM<br>
 I like men<br>

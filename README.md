@@ -3,8 +3,10 @@ An AI accelerator I made because I didn't want to study for my exams<br>
 <br>
 Written in SystemVerilog<br>
 <br>
+Artix 7-100t 676 -2 C<br>
+<br>
 It has a 1x384 vector architecture (INT8)<br>
-It uses a ping pong kinda buffer with oh shiddings i forgot how much BRAM<br>
+It uses a ping pong kinda buffer with 24 BRAM Banks<br>
 I like men<br>
 It's built for the Artix 7 100t 676 BGA -2<br>
 How did I fit 384 MAC units in 240 DSP slices? I just fed one weight two activations (I couldn't do two activations cuz the DSP slices were 25x18)<br>

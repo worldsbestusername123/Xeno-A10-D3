@@ -17,7 +17,8 @@ runs on 300 mhz, more info here<br>
 here's the power requirement<br>
 <img width="666" height="182" alt="image" src="https://github.com/user-attachments/assets/6e8d6a7a-0b88-46c3-95df-c966dfd331c0" /><br>
 <br>
-This is all implemented btw, also it has been testbenched and works, where's the testbench code? It's in my ass! I lost it no shit.<br>
+This is all implemented btw, also it has been testbenched and works, where's the testbench code? ~~It's in my ass! I lost it no shit.~~<br>
+I found it I'll link it when I finish my homework
 <br>
 <img width="506" height="158" alt="image" src="https://github.com/user-attachments/assets/9f102de8-5c12-4e32-b6e2-31932e955cd0" /><br>
 ^<br>

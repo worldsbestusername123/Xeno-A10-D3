@@ -1,0 +1,43 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.625",
+   "Default View_TopLeft":"-166,-662",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38 GUI=JA:24.0
+#  -string -flagsOSRD
+preplace port DDR3_0 -pg 1 -lvl 5 -x 1410 -y -270 -defaultsOSRD
+preplace port CLK_REF_0 -pg 1 -lvl 0 -x -40 -y -270 -defaultsOSRD
+preplace port SYS_CLK_0 -pg 1 -lvl 0 -x -40 -y -190 -defaultsOSRD
+preplace port port-id_clk_100MHz -pg 1 -lvl 0 -x -40 -y -380 -defaultsOSRD
+preplace port port-id_reset_rtl_0 -pg 1 -lvl 0 -x -40 -y -410 -defaultsOSRD
+preplace port port-id_init_calib_complete_0 -pg 1 -lvl 5 -x 1410 -y -170 -defaultsOSRD
+preplace inst xeno_accel_0 -pg 1 -lvl 4 -x 1200 -y -30 -defaultsOSRD
+preplace inst mig_7series_0 -pg 1 -lvl 3 -x 790 -y -210 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 2 -x 480 -y -240 -defaultsOSRD
+preplace inst axi_dma_0 -pg 1 -lvl 1 -x 170 -y -240 -defaultsOSRD
+preplace inst rst_clk_wiz_0_100M -pg 1 -lvl 3 -x 790 -y -410 -defaultsOSRD
+preplace inst axi_smc -pg 1 -lvl 4 -x 1200 -y -540 -defaultsOSRD
+preplace inst rst_mig_7series_0_100M -pg 1 -lvl 4 -x 1200 -y -350 -defaultsOSRD
+preplace netloc clk_100MHz_1 1 0 2 NJ -380 350J
+preplace netloc reset_rtl_0_1 1 0 3 NJ -410 390J -430 N
+preplace netloc axi_dma_0_mm2s_cntrl_reset_out_n 1 1 2 330 -160 590J
+preplace netloc clk_wiz_0_clk_out1 1 0 4 10 -370 NJ -370 570 -530 1020
+preplace netloc clk_wiz_0_locked 1 2 1 580 -370n
+preplace netloc rst_clk_wiz_0_100M_peripheral_aresetn 1 3 1 990 -510n
+preplace netloc mig_7series_0_ui_clk 1 3 1 970 -490n
+preplace netloc mig_7series_0_mmcm_locked 1 3 1 1030 -310n
+preplace netloc mig_7series_0_ui_clk_sync_rst 1 3 1 1000 -370n
+preplace netloc rst_mig_7series_0_100M_peripheral_aresetn 1 2 3 620 -510 980J -240 1370
+preplace netloc mig_7series_0_init_calib_complete 1 3 2 970J -140 1390J
+preplace netloc axi_dma_0_M_AXIS_MM2S 1 1 3 360J -520 NJ -520 1010
+preplace netloc mig_7series_0_DDR3 1 3 2 NJ -250 1390J
+preplace netloc axi_dma_0_M_AXI_MM2S 1 1 3 330J -560 NJ -560 970
+preplace netloc axi_smc_M00_AXI 1 2 3 610 -90 1030J -150 1380
+preplace netloc CLK_REF_0_1 1 0 3 -20J -360 NJ -360 590J
+preplace netloc SYS_CLK_0_1 1 0 3 -20J -120 NJ -120 570J
+preplace netloc axi_dma_0_M_AXI_SG 1 1 3 340 -550 NJ -550 NJ
+levelinfo -pg 1 -40 170 480 790 1200 1410
+pagesize -pg 1 -db -bbox -sgen -170 -650 1660 220
+"
+}
+

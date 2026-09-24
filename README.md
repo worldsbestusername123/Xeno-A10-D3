@@ -23,4 +23,6 @@ I found it, I'll link it when I finish my homework
 <img width="506" height="158" alt="image" src="https://github.com/user-attachments/assets/9f102de8-5c12-4e32-b6e2-31932e955cd0" /><br>
 ^<br>
 |<br>
-this is the utilization
+this is the design<br>
+<img width="222" height="362" alt="image" src="https://github.com/user-attachments/assets/c8376429-2f26-4cb7-a34f-1d9a64a47251" />
+

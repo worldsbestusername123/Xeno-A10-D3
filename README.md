@@ -1,5 +1,5 @@
 # Xeno A10-D3
-An AI accelerator I made because I didn't want to study for my exams<br>
+An AI accelerator I made in 10-25 (i'm guessing 16) days because I could<br>
 <br>
 Written in SystemVerilog<br>
 <br>
